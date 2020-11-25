@@ -1,6 +1,6 @@
 {
   "name": "enecuum-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "enecuum-bin",
   "main": "index.js",
   "scripts": {
